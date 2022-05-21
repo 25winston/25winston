@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/rawinby-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A)](https://www.instagram.com/rawinby/)
 [![Twitter](https://img.shields.io/badge/rawinby-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9)](https://www.twitter.com/rawinby/)
-[![Linkedin](https://img.shields.io/badge/rawinby-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5)](https://www.linkedin.com/in/rawinby//)
+[![Linkedin](https://img.shields.io/badge/rawinby-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5)](https://www.linkedin.com/in/rawinby/)
 [![github](https://img.shields.io/badge/rawinby-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rawinby/)
 ![](https://komarev.com/ghpvc/?username=rawinby&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
@@ -21,6 +21,7 @@ In addition to my personal page, you can also follow my main page called <a href
 
 <p align="left">
 I code with :  👇
+<br/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=DA4D25"/>  
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=166DAF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=E6B523"/> 
