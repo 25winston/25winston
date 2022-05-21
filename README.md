@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/q32kQKM.png" alt="👋 Hi Guys. I'm Rawin Ormklang" title="👋 Hi Guys. I'm Rawin Ormklang"/>
+<img src="https://i.imgur.com/uhJkx0K.png" alt="👋 Hi Guys. I'm Rawin Ormklang" title="👋 Hi Guys. I'm Rawin Ormklang"/>
 
 <div align="left">
 
@@ -50,7 +50,7 @@ I code with :  👇
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>📈  Recent GitHub Activity</summary>
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rawinby&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
