@@ -20,14 +20,14 @@ Hello 🖐️ friends, welcome to my github
 I am satisfied and I tried most fields of programming such as web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a leader developer in a company
 &nbsp;
 
-In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/rawinby/">rawinby</a> on Instagram and Website <a href="https://www.rawin.co">www.rawin.co</a>.
+In addition to my personal page, you can also follow my main page called <a target="_blank" href="https://www.instagram.com/rawinby/">rawinby</a> on Instagram and Website <a target="_blank" href="https://www.rawin.co">www.rawin.co</a>.
      
    </td>
    <td align="center">
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Spotify"><br/>
       Probably listening music now.
-      <a href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-      <a href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last Favorited"></a>
+      <a target="_blank" href="https://open.spotify.com/user/jjzobpl40am1hc6y1fs7oukqj"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+      <a target="_blank" href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last Favorited"></a>
 
    </td>
   </tr>
@@ -61,12 +61,12 @@ I code with :  👇
 
 ## 📊 Github stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rawinby's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rawinby&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=185be0&icon_color=185be0" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rawinby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawinby&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img alt="rawinby's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rawinby&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=185be0&icon_color=185be0" height="192px"/></a>
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img alt="rawinby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawinby&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
 
 <details>
   <summary>📈  Recent GitHub Activity</summary>
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rawinby&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+<a target="_blank" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rawinby&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
