@@ -10,16 +10,31 @@
 
  
 </div>  
-<p align="justify"> 
+
+<table>
+  <tr>
+    <td>
+     <h1>Hello friends <img src="https://i.imgur.com/R4SfNQG.gif" width="25">, I'm <a href="https://rawin.co" target="_blank" rel="noopener noreferrer">Rawin</a> !</h1>
+
 Hello 🖐️ friends, welcome to my github
 I am satisfied and I tried most fields of programming such as web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a leader developer in a company
 &nbsp;
 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/rawinby/">rawinby</a> on Instagram and Website <a href="https://www.rawin.co">www.rawin.co</a>.
-</p>
+     
+   </td>
+   <td align="center">
+      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Spotify"><br/>
+      Probably listening music now.
+      <a href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+      <a href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last Favorited"></a>
 
-
-<p align="left">
+   </td>
+  </tr>
+ <tr>
+  <td colspan="2">
+   
+   <p align="left">
 I code with :  👇
 <br/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=DA4D25"/>  
@@ -35,6 +50,13 @@ I code with :  👇
 <img src="https://img.shields.io/badge/Vue.js-3776AB?style=for-the-badge&logo=Vue.js&logoColor=white&color=3FB27F"/> 
 
 </p>
+   
+  </td>
+ </tr>
+</table>
+
+
+
 
 
 ## 📊 Github stats
