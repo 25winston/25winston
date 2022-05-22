@@ -64,13 +64,15 @@ In addition to my personal page, you can also follow my main page called <a targ
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-<img height="32" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img height="32" src="https://www.toughlex.com/images/expertise/technology/nodejs/logo.png" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/json.svg" />
 
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 <img height="32" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" />
 <img height="32" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/wordpress.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/yarn.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />    
@@ -80,11 +82,24 @@ In addition to my personal page, you can also follow my main page called <a targ
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OpenLayers_logo.svg/2048px-OpenLayers_logo.svg.png" />
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" />
 
+
+<img height="32" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />
+<img height="32" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
+
+
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/apple.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/macos.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg" />
 <img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/opera.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/edge.svg" />
+<img height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/safari.svg" />
 
 
 
