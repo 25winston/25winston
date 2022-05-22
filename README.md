@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/uhJkx0K.png" alt="👋 Hi Guys. I'm Rawin Ormklang" title="👋 Hi Guys. I'm Rawin Ormklang"/>
+<img src="https://i.imgur.com/e7UFIyJ.jpg" alt="👋 Hi Guys. I'm Rawin Ormklang" title="👋 Hi Guys. I'm Rawin Ormklang"/>
 
 <div align="left">
 
