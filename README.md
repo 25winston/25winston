@@ -27,7 +27,7 @@ In addition to my personal page, you can also follow my main page called <a targ
 
    </td>
    <td align="center" width="30%"> 
-      <a href="https://app.daily.dev/rawinby"><img src="https://api.daily.dev/devcards/dfe8faab8f9944708d17d5f088555942.png?r=det" width="400" alt="Rawin Ormklang's Dev Card"/></a><br/><br/>
+      <a target="_blank" href="https://app.daily.dev/rawinby"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=maf" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
 
    </td>
   </tr>
