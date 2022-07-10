@@ -20,13 +20,14 @@ I am satisfied and I tried most fields of programming such as web design and dev
 &nbsp;
 
 In addition to my personal page, you can also follow my main page called <a target="_blank" href="https://www.instagram.com/rawinby/">rawinby</a> on Instagram and Website <a target="_blank" href="https://www.rawin.co">www.rawin.co</a>.
-     
+
+<br/>
+<a target="_blank" href="https://open.spotify.com/user/jjzobpl40am1hc6y1fs7oukqj"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Spotify"></a> 
+<a target="_blank" href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Last Favorited"></a>
+
    </td>
-   <td align="center">
-      <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Spotify"><br/>
-      Probably listening music now.
-      <a target="_blank" href="https://open.spotify.com/user/jjzobpl40am1hc6y1fs7oukqj"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Spotify"></a>
-      <a target="_blank" href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Last Favorited"></a>
+   <td align="center" width="30%"> 
+      <a href="https://app.daily.dev/rawinby"><img src="https://api.daily.dev/devcards/dfe8faab8f9944708d17d5f088555942.png?r=det" width="400" alt="Rawin Ormklang's Dev Card"/></a><br/><br/>
 
    </td>
   </tr>
