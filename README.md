@@ -2,11 +2,11 @@
 
 <div align="left">
 
-[![Linkedin](https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5)](https://www.linkedin.com/in/winstonprince/)
-[![github](https://img.shields.io/badge/winstonprince-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winstonprince/)
-[![Instagram](https://img.shields.io/badge/winstonprince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A)](https://www.instagram.com/winstonprince_/)
-[![Twitter](https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9)](https://www.twitter.com/winstonprince_/)
-![](https://komarev.com/ghpvc/?username=winstonprince&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+<a target="_blank" href="https://linkedin.com/in/winstonprince"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
+<a target="_blank" href="https://github.com/winstonprince"><img src="https://img.shields.io/badge/winstonprince-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a target="_blank" href="https://instagram.com/winstonprince_"><img src="https://img.shields.io/badge/winstonprince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
+<a target="_blank" href="https://www.twitter.com/winstonprince_"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9"/></a> 
+<a><img src="https://komarev.com/ghpvc/?username=winstonprince&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a> 
 
 </div>  
 
@@ -27,7 +27,7 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
    </td>
    <td align="center" width="30%"> 
-      <a href="https://app.daily.dev/winstonprince"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
+      <a target="_blank" href="https://app.daily.dev/winstonprince"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
 
    </td>
   </tr>
