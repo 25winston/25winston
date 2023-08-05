@@ -27,7 +27,7 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
    </td>
    <td align="center" width="30%"> 
-      <a href="https://app.daily.dev/rawinby"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=s8y" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
+      <a href="https://app.daily.dev/winstonprince"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
 
    </td>
   </tr>
