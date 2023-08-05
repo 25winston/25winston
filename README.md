@@ -2,11 +2,11 @@
 
 <div align="left">
 
-[![Linkedin](https://img.shields.io/badge/rawinby-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5)](https://www.linkedin.com/in/rawinby/)
-[![github](https://img.shields.io/badge/rawinby-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rawinby/)
-[![Instagram](https://img.shields.io/badge/rawinby-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A)](https://www.instagram.com/rawinby/)
-[![Twitter](https://img.shields.io/badge/rawinby-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9)](https://www.twitter.com/rawinby/)
-![](https://komarev.com/ghpvc/?username=rawinby&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+[![Linkedin](https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5)](https://www.linkedin.com/in/winstonprince/)
+[![github](https://img.shields.io/badge/winstonprince-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winstonprince/)
+[![Instagram](https://img.shields.io/badge/winstonprince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A)](https://www.instagram.com/winstonprince_/)
+[![Twitter](https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9)](https://www.twitter.com/winstonprince/)
+![](https://komarev.com/ghpvc/?username=winstonprince&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 </div>  
 
