@@ -16,10 +16,10 @@
      <h1>Hi Guys <img src="https://i.imgur.com/R4SfNQG.gif" width="25">, I'm <a href="https://rawin.co" target="_blank" rel="noopener noreferrer">Rawin</a> !</h1>
 
 Welcome to my github
-I am satisfied and I tried most fields of programming such as web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a leader developer in a company
+I am satisfied and I tried most fields of programming such as web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a leader developer in a company.
 &nbsp;
 
-In addition to my personal page, you can also follow my main page called <a target="_blank" href="https://www.instagram.com/rawinby/">rawinby</a> on Instagram and Website <a target="_blank" href="https://rawin.win">www.rawin.win</a>.
+
 
 <br/>
 <a target="_blank" href="https://open.spotify.com/user/jjzobpl40am1hc6y1fs7oukqj"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Spotify"></a> 
