@@ -115,6 +115,6 @@ In addition to my personal page, you can also follow my main page called <a targ
 <details>
   <summary>📈  Recent GitHub Activity</summary>
   <br/>
-<img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rawinby&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
+<img alt="winstonprince's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=winstonprince&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
 </details>
 
