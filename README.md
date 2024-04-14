@@ -2,10 +2,10 @@
 
 <div align="left">
 
-<a target="_blank" href="https://linkedin.com/in/winstonprince"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
-<a target="_blank" href="https://github.com/winstonprince"><img src="https://img.shields.io/badge/winstonprince-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
-<a target="_blank" href="https://instagram.com/winstonprince_"><img src="https://img.shields.io/badge/winstonprince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
-<a target="_blank" href="https://www.twitter.com/winstonprince_"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9"/></a> 
+<a target="_blank" href="https://linkedin.com/in/25winston"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
+<a target="_blank" href="https://github.com/25winston"><img src="https://img.shields.io/badge/winstonprince-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a target="_blank" href="https://instagram.com/25winston"><img src="https://img.shields.io/badge/winstonprince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
+<a target="_blank" href="https://www.twitter.com/25winston"><img src="https://img.shields.io/badge/winstonprince-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9"/></a> 
 <a><img src="https://komarev.com/ghpvc/?username=winstonprince&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a> 
 
 </div>  
