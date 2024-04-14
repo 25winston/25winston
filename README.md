@@ -27,7 +27,7 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
    </td>
    <td align="center" width="30%"> 
-      <a target="_blank" href="https://app.daily.dev/winstonprince"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
+      <a target="_blank" href="https://app.daily.dev/25winston"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
 
    </td>
   </tr>
@@ -109,10 +109,10 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
 #### 📊 Github stats
 
-<img alt="winstonprince's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=winstonprince&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=185be0&icon_color=185be0" height="192px"/></a>
-<img alt="winstonprince's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstonprince&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+<img alt="25winston's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=25winston&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=185be0&icon_color=185be0" height="192px"/></a>
+<img alt="25winston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25winston&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
 
 #### 📈  Recent GitHub Activity
-<img alt="winstonprince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=winstonprince&theme=react" />
+<img alt="winstonprince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=25winston&theme=react" />
 
 
